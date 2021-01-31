@@ -1,0 +1,5 @@
+[FORMAT]
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=no-self-use,missing-class-docstring,missing-function-docstring,attribute-defined-outside-init,duplicate-code
